@@ -11,8 +11,11 @@
   "profile": {
     "name": "typicode"
   },
-  "link": {
-    "google": "https://www.google.com/",
-    "facebook": "https://www.facebook.com/"
+  "links": {
+    "balimall":{
+      "status": "activate",
+      "url": "https://balimall.id/"
+    }
+    
   }
 }
