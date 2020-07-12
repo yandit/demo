@@ -11,11 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "links": {
-    "balimall":{
-      "status": "activate",
-      "url": "https://balimall.id/"
-    }
-    
+  "balimall": {
+    "status": "activate",
+    "link": "https://balimall.id/"
   }
 }
